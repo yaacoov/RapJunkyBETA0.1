@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RapJunky</string>
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="skip_login_text">Skip login</string>
+    <string name="element_text">Element</string>
+
+
+    <string name="collapsed">collapsed: %s</string>
+    <string name="expanded">expanded: %s</string>
+    <string name="backdrop_title">Gangster Rap</string>
+    <string name="backdrop_subtitle">Made me do It</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">add favourite</string>
+    <string name="action_play_next">play next</string>
+    <string name="Professional">Professional</string>
+    <string name="Advanced">Advanced</string>
+    <string name="Novice">Novice</string>
+    <string name="Random_All">Random All</string>
+
+
+</resources>
